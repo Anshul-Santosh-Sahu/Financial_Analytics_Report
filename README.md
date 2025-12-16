@@ -6,19 +6,19 @@ The dashboard provides a comprehensive view of an organization’s financial per
 
 It covers end-to-end Profit & Loss (P&L) analysis, profitability metrics, and cost efficiency insights.
 
-🎯 Objectives
+# 🎯 Objectives
 
-Analyze sales performance and revenue growth
+1. Analyze sales performance and revenue growth
 
-Track profitability at multiple levels
+2. Track profitability at multiple levels
 
-Monitor operational and non-operational expenses
+3. Monitor operational and non-operational expenses
 
-Evaluate marketing efficiency vs sales
+4. Evaluate marketing efficiency vs sales
 
-Compare financial performance year-wise and country-wise
+5. Compare financial performance year-wise and country-wise
 
-📌 Key Features
+# 📌 Key Features
 
 📈 Sales Revenue Analysis (YTD & FTP)
 
@@ -36,7 +36,7 @@ Compare financial performance year-wise and country-wise
 
 🔎 Interactive filters & drill-downs
 
-🧩 Dashboard Components
+# 🧩 Dashboard Components
 
 Trading Account
 
@@ -50,7 +50,7 @@ Profitability KPIs
 
 Cost & Margin Visualizations
 
-🛠 Tools & Technologies Used
+# 🛠 Tools & Technologies Used
 
 Power BI
 
@@ -64,13 +64,13 @@ Financial Analytics
 
 Data Visualization
 
-📂 Repository Structure
+# 📂 Repository Structure
 📁 Financial-Reporting-Analysis-PowerBI
  ├── Finacial_Data(1).xlsx
  ├── Finanicial_Reporting_And_Analysis(PowerBI).pbix
  ├── README.md
 
-🚀 How to Use
+# 🚀 How to Use
 
 Clone or download this repository
 
@@ -84,7 +84,7 @@ Year
 
 Explore KPIs, trends, and financial insights
 
-📈 Insights Derived
+# 📈 Insights Derived
 
 Sales revenue shows consistent growth over the years
 
@@ -94,7 +94,7 @@ Profit margins vary significantly across regions
 
 Operating costs are the major drivers impacting net profit
 
-📌 Future Enhancements
+# 📌 Future Enhancements
 
 Add forecasting & trend prediction
 
@@ -104,13 +104,13 @@ Drill-through pages for country-level analysis
 
 Publish dashboard to Power BI Service
 
-👤 Author
+# 👤 Author
 
 Anshul Santosh Sahu
 B.Tech CSE (Data Science)
 📊 Data Analytics | Power BI | Machine Learning
 
-⭐ Feedback
+#⭐ Feedback
 
 If you find this project useful, feel free to ⭐ star the repository.
 Suggestions and improvements are always welcome!
