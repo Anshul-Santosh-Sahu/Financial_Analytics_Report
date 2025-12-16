@@ -66,8 +66,11 @@ Data Visualization
 
 # 📂 Repository Structure
 📁 Financial-Reporting-Analysis-PowerBI
+
  ├── Finacial_Data(1).xlsx
+ 
  ├── Finanicial_Reporting_And_Analysis(PowerBI).pbix
+ 
  ├── README.md
 
 # 🚀 How to Use
@@ -107,10 +110,12 @@ Publish dashboard to Power BI Service
 # 👤 Author
 
 Anshul Santosh Sahu
+
 B.Tech CSE (Data Science)
+
 📊 Data Analytics | Power BI | Machine Learning
 
-#⭐ Feedback
+# ⭐ Feedback
 
 If you find this project useful, feel free to ⭐ star the repository.
 Suggestions and improvements are always welcome!
