@@ -103,7 +103,7 @@ Add forecasting & trend prediction
 
 Integrate real-time data sources
 
-Drill-through pages for country-level analysis
+Create drill-through pages for country-level analysis
 
 Publish dashboard to Power BI Service
 
