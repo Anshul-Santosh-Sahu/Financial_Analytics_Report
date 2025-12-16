@@ -1,5 +1,5 @@
-📊 Financial Reporting & Analysis Dashboard (Power BI)
-🔍 Project Overview
+# 📊 Financial Reporting & Analysis Dashboard (Power BI)
+# 🔍 Project Overview
 
 This project showcases an interactive Financial Reporting & Analysis Dashboard built using Microsoft Power BI.
 The dashboard provides a comprehensive view of an organization’s financial performance across multiple years and countries (including India), enabling data-driven decision-making.
