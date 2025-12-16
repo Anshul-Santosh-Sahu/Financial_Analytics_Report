@@ -4,19 +4,22 @@
 This project showcases an interactive Financial Reporting & Analysis Dashboard built using Microsoft Power BI.
 The dashboard provides a comprehensive view of an organization’s financial performance across multiple years and countries (including India), enabling data-driven decision-making.
 
-It covers end-to-end Profit & Loss (P&L) analysis, profitability metrics, and cost efficiency insights.
+It covers end-to-end Profit & Loss (P&L) analysis, profitability metrics, and cost-efficiency insights.
+
+# 🔗 Live Demonstration available on LinkedIn:
+👉 https://www.linkedin.com/posts/anshul-santosh-sahu_powerbi-dataanalytics-financedashboard-activity-7406751346198192129-jzq4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE8iAMoBpxjFmltrKNhT-nNKyoXAYw9GbAM
 
 # 🎯 Objectives
 
-1. Analyze sales performance and revenue growth
+Analyze sales performance and revenue growth
 
-2. Track profitability at multiple levels
+Track profitability at multiple levels
 
-3. Monitor operational and non-operational expenses
+Monitor operational and non-operational expenses
 
-4. Evaluate marketing efficiency vs sales
+Evaluate marketing efficiency vs sales
 
-5. Compare financial performance year-wise and country-wise
+Compare financial performance year-wise and country-wise
 
 # 📌 Key Features
 
@@ -26,15 +29,15 @@ It covers end-to-end Profit & Loss (P&L) analysis, profitability metrics, and co
 
 📊 Gross Profit Margin & Net Profit Margin
 
-🎯 Sales vs Marketing Cost comparison
+🎯 Sales vs Marketing Cost Comparison
 
-🌍 Country-wise analysis (India, USA, UK, Germany, etc.)
+🌍 Country-wise Analysis (India, USA, UK, Germany, etc.)
 
-🗓 Year-wise trends (2018, 2019, 2020)
+🗓 Year-wise Trends (2018, 2019, 2020)
 
 🧾 Structured Profit & Loss Statement
 
-🔎 Interactive filters & drill-downs
+🔎 Interactive Filters & Drill-downs
 
 # 🧩 Dashboard Components
 
@@ -66,11 +69,8 @@ Data Visualization
 
 # 📂 Repository Structure
 📁 Financial-Reporting-Analysis-PowerBI
-
- ├── Finacial_Data(1).xlsx
- 
+ ├── Finacial_Data(1).xlsx 
  ├── Finanicial_Reporting_And_Analysis(PowerBI).pbix
- 
  ├── README.md
 
 # 🚀 How to Use
@@ -111,7 +111,7 @@ Publish dashboard to Power BI Service
 
 Anshul Santosh Sahu
 
-B.Tech CSE (Data Science)
+🎓 B.Tech CSE (Data Science)
 
 📊 Data Analytics | Power BI | Machine Learning
 
